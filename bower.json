@@ -1,0 +1,24 @@
+{
+  "name": "ternary-logic",
+  "version": "0.0.1",
+  "authors": [
+    "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>"
+  ],
+  "main": "lib/ternary-logic.js",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "logic",
+    "ternary",
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
