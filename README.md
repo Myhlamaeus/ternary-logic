@@ -25,7 +25,26 @@ U.valueOf() // null
 
 ## Documentation
 
-_(Coming soon)_
+ternary-logic.js exports 5 objects:
+- `T`, `F` and `U` are truth values: true, false and unknown, respectively
+- `cast` casts values to `T`, `F` and `U`
+- `Ternary` is a class of which `T`, `F` and `U` are instances
+
+### Truth values
+The 3 truth values are `T` (`true`), `F` (`false`) and `U` (unknown).
+`T.valueOf()` and `F.valueOf()` return their respective Boolean counterparts.
+`U.valueOf()` returns `null`.
+Note that all 3 truth values will be coerced to `true` since they are objects.
+`T.toString()`, `F.toString()` and `U.toString()` return "T", "F" and "U", respectively.
+
+### `cast`
+`cast` casts values to `T`, `F` and `U`.
+
+More specifically, `cast(a)` returns:
+- `a`, if `a instanceof Ternary`
+- `U`, if `a` is `undefined` or `null`
+- `T`, if `a` is coerced to `true`
+- `F` otherwise
 
 
 ## Examples
@@ -36,6 +55,9 @@ _(Coming soon)_
 ## Contributing
 
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com).
+
+Note that, currently, jsHint has a lot of problems with ES6 Modules,
+because of which many unnecessary errors are thrown.
 
 
 ## License
