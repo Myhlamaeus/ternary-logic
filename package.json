@@ -1,6 +1,6 @@
 {
   "name": "ternary-logic",
-  "version": "0.0.1-a",
+  "version": "0.0.1",
   "main": "lib/ternary-logic.js",
   "description": "The best module ever.",
   "homepage": "https://github.com/ileri/ternary-logic",
