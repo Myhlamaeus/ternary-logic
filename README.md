@@ -1,6 +1,6 @@
 # ternary-logic [![Build Status](https://secure.travis-ci.org/ileri/ternary-logic.png?branch=master)](http://travis-ci.org/ileri/ternary-logic)
 
-> The best module ever.
+> Ternary logic in ES6
 
 
 ## Getting Started
