@@ -1,7 +1,7 @@
 {
   "name": "ternary-logic",
   "description": "Ternary logic in ES6",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Malte-Maurice Dreyer",
     "email": "dreyer.maltem@gmail.com"
