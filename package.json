@@ -8,6 +8,7 @@
   },
   "bugs": "https://github.com/ileri/ternary-logic/issues",
   "devDependencies": {
+    "babel": "^4.7.1",
     "grunt-contrib-jshint": "^0.11.0",
     "grunt-contrib-nodeunit": "^0.4.1",
     "grunt-contrib-watch": "^0.6.1",

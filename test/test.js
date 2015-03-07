@@ -4,7 +4,7 @@
 
 import {Ternary, cast, T, F, U} from "../lib/ternary-logic.js";
 
-module.exports = {
+export default {
     "Ternary": function(test) {
         test.ok(T instanceof Ternary);
         test.ok(F instanceof Ternary);
