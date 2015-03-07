@@ -1,26 +1,12 @@
 {
   "name": "ternary-logic",
-  "version": "0.0.1",
-  "main": "lib/ternary-logic.js",
   "description": "The best module ever.",
-  "homepage": "https://github.com/ileri/ternary-logic",
-  "bugs": "https://github.com/ileri/ternary-logic/issues",
+  "version": "0.0.1",
   "author": {
     "name": "Malte-Maurice Dreyer",
     "email": "dreyer.maltem@gmail.com"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ileri/ternary-logic"
-  },
-  "license": "MIT",
-  "files": [
-    "lib"
-  ],
-  "keywords": [
-    "ternary-logic",
-    "logic ternary"
-  ],
+  "bugs": "https://github.com/ileri/ternary-logic/issues",
   "devDependencies": {
     "grunt-contrib-jshint": "^0.11.0",
     "grunt-contrib-nodeunit": "^0.4.1",
@@ -28,6 +14,20 @@
     "jshint-stylish": "^1.0.1",
     "load-grunt-tasks": "^3.1.0",
     "time-grunt": "^1.1.0"
+  },
+  "files": [
+    "lib"
+  ],
+  "homepage": "https://github.com/ileri/ternary-logic",
+  "keywords": [
+    "ternary-logic",
+    "logic ternary"
+  ],
+  "license": "MIT",
+  "main": "lib/ternary-logic.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ileri/ternary-logic"
   },
   "scripts": {
     "test": "grunt"
