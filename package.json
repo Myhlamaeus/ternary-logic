@@ -25,7 +25,7 @@
     "logic ternary"
   ],
   "license": "GPL-3.0",
-  "main": "lib/ternary-logic.js",
+  "main": "ternary-logic.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/ileri/ternary-logic"

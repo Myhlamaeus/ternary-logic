@@ -4,7 +4,7 @@
   "authors": [
     "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>"
   ],
-  "main": "lib/ternary-logic.js",
+  "main": "ternary-logic.js",
   "moduleType": [
     "es6"
   ],

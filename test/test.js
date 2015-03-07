@@ -2,7 +2,7 @@
 
 "use strict";
 
-import {Ternary, cast, T, F, U} from "../lib/ternary-logic.js";
+import {Ternary, cast, T, F, U} from "../ternary-logic.js";
 
 export default {
     "Ternary": function(test) {
