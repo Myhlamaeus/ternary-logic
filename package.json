@@ -24,7 +24,7 @@
     "ternary-logic",
     "logic ternary"
   ],
-  "license": "MIT",
+  "license": "GPL-3.0",
   "main": "lib/ternary-logic.js",
   "repository": {
     "type": "git",

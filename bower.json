@@ -13,7 +13,7 @@
     "ternary",
     "es6"
   ],
-  "license": "MIT",
+  "license": "GPL-3.0",
   "ignore": [
     "**/.*",
     "node_modules",
