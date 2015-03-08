@@ -1,4 +1,4 @@
-# ternary-logic [![Build Status](https://secure.travis-ci.org/ileri/ternary-logic.png?branch=master)](http://travis-ci.org/ileri/ternary-logic)
+# ternary-logic [![Build Status](https://secure.travis-ci.org/ileri/ternary-logic.png?branch=master)](http://travis-ci.org/ileri/ternary-logic) [![Code Climate](https://codeclimate.com/github/ileri/ternary-logic/badges/gpa.svg)](https://codeclimate.com/github/ileri/ternary-logic)
 
 > Ternary logic in ES6
 
